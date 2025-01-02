@@ -6,10 +6,10 @@ This project will reinforce your understanding of Python concepts such as functi
 
 The following skils were taught in this Artifact:
 
--Learn how to define and use Python functions.
+- Learn how to define and use Python functions.
 
--Understand how to capture and validate user input.
+- Understand how to capture and validate user input.
 
--Use conditionals to control program flow.
+- Use conditionals to control program flow.
 
--Format output for better readability.
+- Format output for better readability.
